@@ -1,6 +1,8 @@
 # text-analytics-harry-potter
 DS5001 Spring 2023 Final Project: Harry Potter
 
+This repository serves as a deep-dive into the Harry Potter series, specifically investigating the role that Hermione plays as a strong feminine character.
+
 Contents in the repository include:
 - `data` directory - contains all source data files for this directory
 - `images` directory - contains images used in the final report
